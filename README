@@ -1,0 +1,32 @@
+## Overview
+
+This project is a fraud detection system developed in Python.
+
+## Project Structure
+
+- `FDK/` – Source code and modules for the fraud detection system
+- `FDK/requirements.txt` – Python dependencies
+
+## Setup
+
+1. Clone the repository.
+2. Navigate to the `FDK` directory:
+   ```sh
+   cd FDK
+   ```
+3. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+Describe how to run your project here.
+
+## License
+
+Add license information here if applicable.
+
+## Author
+
+Andreas Karel Eriksen
